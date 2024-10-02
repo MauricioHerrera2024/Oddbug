@@ -1,0 +1,116 @@
+#cabecera{
+    color:Green,blue;
+    /*border: solid;*/
+    margin-top:10px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:0px;
+    padding: 10px;
+    background-color:#2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    border-radius:55px;
+    background: -webkit-linear-gradient(top,
+    #3f3232,#3f3232);
+    /*outline: 2px dashed #000; parte del codigo 
+    que nos sirve para hacer lineas puntiadas
+    estilo "recortes"outline-offset:20px;*/
+    }
+    
+    
+    #cabecera h1{
+    color: black;
+    font: bold 20px MiNuevaFuente,verdana,
+    font-ttf;
+    }
+    
+    
+    #barra{ 
+    box-shadow: rgb(7,5,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top, #3f3232, #3f3232);
+    border-radius: 150px;
+    /*border:solid;*/
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 25px;
+    }
+    
+    #cuerpo{
+    box-shadow: rgb(700,600,1100) 5px 5px 20px;
+    background: -webkit-linear-gradient(top,
+    #302c2c,rgb(24, 23, 23),black);
+    border-radius:25px;
+    /*borde: solid;*/
+    margin-top: 70px;
+    margin-right: 400px;
+    margin-left:400px;
+    padding-bottom:5px;
+    }
+    
+    #lateral{
+    background-color:#2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top,
+   #302c2c,rgb(24, 23, 23),black);
+    border-radius: 20px;
+    /*border:solid;*/
+    margin-top:-597px;
+    margin-left:950px;
+    margin-right:70px;
+    padding-bottom:10px;
+    }
+    
+    #lateral2{
+    background-color:#2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top,
+    #302c2c,rgb(24, 23, 23),black);
+    border-radius: 20px;
+    /*border:solid;*/
+    margin-top:20px;
+    margin-left:950px;
+    margin-right:70px;
+    padding-bottom:7px;
+    }
+    
+    #lateral3{
+    background-color:#2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top,
+    #302c2c,rgb(24, 23, 23),black);
+    border-radius: 20px;
+    /*border:solid;*/
+    margin-top:-599px;
+    margin-left:73px;
+    margin-right:950px;
+    padding-bottom:10px;
+    }
+    
+    #lateral4{
+    background-color:#2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top,
+    #302c2c,rgb(24, 23, 23),black);
+    border-radius: 20px;
+    /*border:solid;*/
+    margin-top: 20px;
+    margin-left: 73px;
+    margin-right:950px;
+    padding-bottom:10px;
+    }
+    
+    #pie{
+    background-color: #2ECCFA;
+    box-shadow: rgb(7,6,11) 5px 5px 25px;
+    background: -webkit-linear-gradient(top,
+    gray,gray);
+    border-radius:30px;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 10px;
+    }
+    
+    #fondo{
+    background-color:gray ;
+    }  
